@@ -1,0 +1,7 @@
+﻿LanguageCode			 ┋		schinese	        ┋	english
+Creature1448330898	         ┋		0			┋	Moon Elf
+Characterisic1448330898		 ┋              0              		┋	Racial traits:Life by Toil
+BuffName1448330900		 ┋              0              		┋       Life by Toil     
+CharacterisicDes1448330898	 ┋		0       		┋       Gathering speed increased 50%, 10% more drops from trees and mining, 30% less hunger decrease, but decreased attack and move speeds.
+BuffDescription1448330900	 ┋ 		0			┋	Gathering speed +50%; +10% drops from mining, trees; -30% hunger decrease; -10% attack speed, move speed.
+CharacterisicDesInGame1448330898 ┋		0			┋	A species of elves which were found on Earth's moon and subsequently subjugated by the inhabitants of Earth. Much of their fighting spirit, and spirit as a species, has been broken since their subjugation, and most have been put to lifelong labour under threat of whips and batons and worse.

@@ -1,0 +1,13 @@
+{
+    "1058887246": {
+        "name": "CreatureSkill1448330901",
+        "description": "CreatureSkillDes1448330901",
+        "visable": 1,
+        "baseBuff": [ 0 ],
+        "attackAttachBuffSelf": [ 0 ],
+        "onHitAttachBuffSelf": [ 0 ],
+        "attackAttachBuffTarget": [ 0 ],
+        "onHitAttachBuffTarget": [ 0 ],
+        "image": "BuffIcon/PetSkill/Pet-Skill-00"
+    }
+}

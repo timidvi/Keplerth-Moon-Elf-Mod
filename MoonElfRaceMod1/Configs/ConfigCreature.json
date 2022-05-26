@@ -1,0 +1,12 @@
+{
+	/*Moon Elf*/
+		"1448330898": 
+		{
+		
+		"BaseDataID": 1,
+		"name": "Creature1448330898",
+		"model": [ 1448330898,1448330899 ],
+		"race": "Moon Elf",
+		"characterisic": 1448330898
+		}
+}

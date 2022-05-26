@@ -1,0 +1,20 @@
+{
+		/*Robot*/
+			"1710435673": 
+			{
+			"name": "Characterisic1710435673",
+			"creatureId":1710435673,
+			"buffId": 1710435678,
+			"description": "CharacterisicDes1710435673",
+			"descriptionInGame": "CharacterisicDesInGame1710435673"
+			},
+		/*Moon Elf*/
+			"1448330898": 
+			{
+			"name": "Characterisic1448330898",
+			"creatureId":1448330898,
+			"buffId": 1448330900,
+			"description": "CharacterisicDes1448330898",
+			"descriptionInGame": "CharacterisicDesInGame1448330898"
+			}
+}

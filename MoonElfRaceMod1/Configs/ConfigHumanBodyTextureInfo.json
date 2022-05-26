@@ -1,0 +1,24 @@
+{
+	/*Moon Elf*/
+		"1448330898": 
+		{
+		"bodyTexturePath": "MoonElfRaceMod1/Textures/Body/MoonF1",
+		"fistTexturePath": "MoonElfRaceMod1/Textures/Fists/MoonFist1"
+		},
+		"1448330903": 
+		{
+		"bodyTexturePath": "MoonElfRaceMod1/Textures/Body/MoonF2",
+		"fistTexturePath": "MoonElfRaceMod1/Textures/Fists/MoonFist2"
+		},
+		"1448330902": 
+		{
+		"bodyTexturePath": "MoonElfRaceMod1/Textures/Body/MoonM1",
+		"fistTexturePath": "MoonElfRaceMod1/Textures/Fists/MoonFist1"
+		},
+		"1448330904": 
+		{
+		"bodyTexturePath": "MoonElfRaceMod1/Textures/Body/MoonM2",
+		"fistTexturePath": "MoonElfRaceMod1/Textures/Fists/MoonFist2"
+		}
+		
+}

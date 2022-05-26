@@ -1,0 +1,48 @@
+
+//��ʽ������ʾ��  "ͼƬ·��":[ê��X�� ê��Y]
+//�����ȭͷ��ê��һ���� [ 0.5, 0.26 ]
+//���û��������ļ�������ͼƬ��ê�㣬��Ĭ��ê��Ϊ[0, 0]
+
+//The format is as follows: "picture path":[Pivot X, Pivot Y]
+//The pivot of the body and fist are generally [0.5, 0.26]
+//If the image's pivot is not configured in this file, the default pivot is [0, 0]
+
+//{
+//  "Core/Textures/Body/1000053-1": [ 0.5, 0.26 ],
+//  "Core/Textures/Body/1000053-2": [ 0.5, 0.26 ],
+//  "Core/Textures/Body/1000053-3": [ 0.5, 0.26 ],
+//  "Core/Textures/Body/1000053-4": [ 0.5, 0.26 ],
+//  "Core/Textures/Weapon/fist/fist1000053": [ 0.5, 0.26 ],
+//}
+
+{   
+/*Body*/
+
+    /*Moon Elf*/
+    "MoonElfRaceMod1/Textures/Body/MoonF1-1": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonF1-2": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonF1-3": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonF1-4": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonF2-1": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonF2-2": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonF2-3": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonF2-4": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonM1-1": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonM1-2": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonM1-3": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonM1-4": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonM2-1": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonM2-2": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonM2-3": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Body/MoonM2-4": [ 0.5, 0.26 ],
+
+
+/*Fists*/
+
+    /*Moon Elf*/
+    "MoonElfRaceMod1/Textures/Fists/MoonFist1": [ 0.5, 0.26 ],
+    "MoonElfRaceMod1/Textures/Fists/MoonFist2": [ 0.5, 0.26 ],
+ 
+}
+
+  
